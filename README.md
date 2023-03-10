@@ -15,7 +15,7 @@ I am a Software Tester who loves Manual Testing as well as Automaton Testing wit
 
 
 <p align="left">
-  https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fpostman-icon%2F&psig=AOvVaw1oUKoH3UB_mVF1PZT__jcv&ust=1678540371016000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPj087S40f0CFQAAAAAdAAAAABAD
+  ![logo](./assets/logo.png)
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
