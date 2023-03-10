@@ -14,7 +14,7 @@ I am a Software Tester who loves Manual Testing as well as Automaton Testing wit
 ### Skills
 
 
-<img src="https://www.testautomatisierung.org/wp-content/uploads/postman.jpg" width=100>
+<img src="https://www.testautomatisierung.org/wp-content/uploads/postman.jpg" width=50>
 
 <p align="left">
   
