@@ -14,7 +14,7 @@ I am a Software Tester who loves Manual Testing as well as Automaton Testing wit
 ### Skills
 
 
-<img src="https://user-images.githubusercontent.com/117619326/224329226-e9fc1157-1d1a-40b3-a323-d81db370f6d9.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fpostman-icon%2F&psig=AOvVaw2iI1YSrp_6Ca3EUSiayCOj&ust=1678541629936000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCH9Ya90f0CFQAAAAAdAAAAABAK" width=100>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fpostman-icon%2F&psig=AOvVaw2iI1YSrp_6Ca3EUSiayCOj&ust=1678541629936000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCH9Ya90f0CFQAAAAAdAAAAABAK" width=100>
 
 <p align="left">
   
