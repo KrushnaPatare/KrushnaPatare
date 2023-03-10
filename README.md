@@ -14,13 +14,14 @@ I am a Software Tester who loves Manual Testing as well as Automaton Testing wit
 ### Skills
 
 
-<img src="https://www.testautomatisierung.org/wp-content/uploads/postman.jpg" width=50>
+
 
 <p align="left">
   
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a  <img src="https://www.testautomatisierung.org/wp-content/uploads/postman.jpg" width=50></a>
 </p>
 
 
