@@ -13,6 +13,9 @@ I am a Software Tester who loves Manual Testing as well as Automaton Testing wit
 
 ### Skills
 
+
+![download](https://user-images.githubusercontent.com/117619326/224329226-e9fc1157-1d1a-40b3-a323-d81db370f6d9.png)
+
 <p align="left">
   
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
