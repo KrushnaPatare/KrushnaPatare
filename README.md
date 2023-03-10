@@ -22,7 +22,7 @@ I am a Software Tester who loves Manual Testing as well as Automaton Testing wit
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <img src="https://www.testautomatisierung.org/wp-content/uploads/postman.jpg" width=50/>
-<img src="https://cdn.imgbin.com/8/1/6/imgbin-microsoft-sql-…omputer-icons-table-qampZ2chsPtnqieZxe7ti8PxN.jpg" width=30/>
+<img src="https://cdn.imgbin.com/8/1/6/imgbin-microsoft-sql-…omputer-icons-table-qampZ2chsPtnqieZxe7ti8PxN.jpg](https://icon-library.com/images/sql-icon/sql-icon-24.jpg" width=30/>
 </p>
 
 ### Socials
